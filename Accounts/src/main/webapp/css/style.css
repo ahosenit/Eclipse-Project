@@ -1,0 +1,13 @@
+body{
+	background-image: linear-gradient(to right top, #ac9e40, #b8a53b, #c5ab36, #d2b230, #e0b829);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.bg-custom{
+	background: #1b5e20;
+}
+.c-head{
+	background: #8bc34a;
+}
